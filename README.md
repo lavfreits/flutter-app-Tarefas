@@ -1,4 +1,6 @@
 Estou fazendo a formação de Flutter da Alura, abaixo está a descrição de cada curso que já concluí:
+
+
 ![Thumbnail GitHub](https://raw.githubusercontent.com/Kakomo/alura_flutter_curso_1/Aula_2/Readme%20Template.png)
 
 # Flutter: Crie seu primeiro app
