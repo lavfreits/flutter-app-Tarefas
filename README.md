@@ -28,6 +28,72 @@ O projeto do curso consiste em um organizador pessoal de tarefas, com gameficaç
 - `Refatoração` : Conceito para organizar e melhorar o nosso projeto para exibir aos seus colegas!
 
 
+![Thumbnail GitHub](https://raw.githubusercontent.com/alura-cursos/alura_flutter_curso_2/master/Readme%20Template%20(2).png)
+
+# Flutter: Controller, Navegação e Estados
+
+O Curso básico de Flutter que ensina aos estudantes como: 
+-> Criar multiplas telas 
+-> Navegar entre telas
+-> Produzir um Formulário
+-> Configurar Validação
+-> Compreender os conceitos básicos de Contexto e Estado
+
+## 🔨 Projeto: Organizador de Tarefas
+
+O projeto do curso consiste em criar uma nova tela ao projeto Organizador de Tarefas, com o intuito de produzir um formulário que adiciona uma nova tarefa customizada!
+
+![](https://raw.githubusercontent.com/alura-cursos/alura_flutter_curso_2/master/flutter2_gif.gif)
+
+## ✔️ Técnicas e tecnologias
+
+**Veja mais de perto o que você aprenderá sobre** :
+- `TextField`: Widget de Campo de Texto.
+- `TextFormField`: Widget de Campo de Texto com Validação.
+- `Form`: Widget de Formulário que cuida da Validação de todos os TextFormFields.
+- `controller`: parâmetro de TextField que manipula os dados.
+- `ErrorBuilder`: função do Widget Image que permite lidar com erros.
+- `keyboardType`: parâmetro do TextField que permite alteração de teclados.
+- `validator`: parâmetro do TextFormField que permite adicionar validação.
+- `SnackBar`: Widget do Scaffold, perfeito para mostrar informações.
+- `Navegação`: conceito de mudança de tela.
+- `Rotas`: nomenclatura para Telas.
+- `Inherited Widget`: Widget com habilidade de lidar e transmitir dados.
+- `context`: conceito de localização e ambientação em relação a diferentes telas no Flutter.
+ 
+
+
+![Thumbnail GitHub](https://raw.githubusercontent.com/alura-cursos/alura_flutter_curso_3/main/Card%20Persist%C3%AAncia.png)
+
+# Flutter: Persistência Interna
+
+Esse curso de Flutter vai te ensinar a: 
+
+-> Adicionar Pacotes
+
+-> Usar o SQFLite
+
+-> Manipular um banco de dados SQL
+
+-> Salvar dados no dispositivo.
+
+## 🔨 Projeto: Organizador de Tarefas
+
+O projeto do curso consiste em adicionar Persistência Interna ao projeto Organizador de Tarefas, com o intuito de permitir que o aplicativo seja fechado e não perca suas informações valiosas!
+
+![](https://raw.githubusercontent.com/alura-cursos/alura_flutter_curso_3/main/flutter3V1_gif.gif)
+
+## ✔️ Técnicas e tecnologias
+
+**Veja mais de perto o que você aprenderá sobre** :
+- `Pacotes`: Bibliotecas da comunidade que podem ser exploradas!
+- `SQFLite`: Um pacote que auxilia na criação de um banco de dados.
+- `DAO`: Data Access Object para criar um Interface entre Back-end e Front-end
+- `CRUD`: Create, Read, Update e Delete. Para manipular nosso banco de dados
+- `FutureBuilder`: Widget que constroi a tela baseado em informações assincronas.
+- `switch/case`: Condição de estados para construção de tela
+- `onLongPress`: parâmetro do ElevatedButton para uma nova ação no mesmo botão.
+ 
 
 
 ## 🛠️ Abrir e rodar o projeto
@@ -40,6 +106,6 @@ O projeto do curso consiste em um organizador pessoal de tarefas, com gameficaç
 
 ## 📚 Mais informações do curso
 
-Gostou do projeto e quer conhecer mais? Você pode [acessar o curso](https://cursos.alura.com.br/course/flutter-widgets-stateless-stateful-imagens-animacoes) que desenvolve o projeto desde o começo!
+Gostou do projeto e quer conhecer mais? Você pode [acessar o curso]() que desenvolve o projeto desde o começo!
 
 Esse curso faz parte da [formação de Flutter da Alura](https://cursos.alura.com.br/formacao-flutter)
